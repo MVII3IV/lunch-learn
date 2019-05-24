@@ -1,0 +1,37 @@
+que es la impresion 3d
+
+la impresion 3d es un proceso de crear objetos reales a partir de modelos tridimensionales
+
+esto quiere decir que nosotros podemos diseñar un objeto usando algun programa de modelado en 3d crearlo con ciertas dimensiones
+guardarlo en una microSD meter esa memoria en la impresora empezar la impresion y una vez que la maquina termine nosotros
+deberiamos tener el mismo objeto que diseñamos con todas sus proporciones exactamente iguales
+
+soprendente no?
+
+entonces que necesito para imprimir?
+basicamente una impresora 3d y material de impresion y unos cuantos dedos
+
+[mostrar imagen de la impresora]
+[muestra que estas imprimiendo y que cual es el diseño en 3d]
+
+
+[Como funciona una impresora?]
+
+una impresora 3d esta formada por varios componentes no los vamos a mencionar todos por que esto se volveria tedioso y el objetivo es que sea
+una platica amena y que se digiera la mayor cantidad de informacion posible
+
+{explica como funciona la impresora asi a grandes razgos}
+como consume filamento como se mueve, di que usa calor etc etc
+
+empezamos con la tarjeta controladora
+la tarjeta controladora se encarga de enviar instruxciones a cada uno de los componentes
+controla la tempreratura de la impreso los abanicos etc etc, es el cerebro de la impresora
+
+
+el extrusor
+el extrusor se encarga de jalar el material y meterlo en la boquilla para que pueda ser derretido y aplicado a la cama caliente
+habla del motor y de que jala el material y que el heat sink derrite el material
+
+
+muestra el video de como se imprime el groot
+
